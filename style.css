@@ -141,7 +141,6 @@ body {
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
-  align-items: left;
 }
 
 .image-container {
