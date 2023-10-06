@@ -9,12 +9,12 @@
 
 /*--Nav */
 
-.navbar {
+nav {
     background-color: red;
     overflow: hidden;
 }
 
-.navbar a {
+nav a {
     float: left;
     background-color: red;
     text-align: center;
@@ -24,12 +24,12 @@
     display: block;
 }
 
-.navbar a:hover {
+nav a:hover {
     background-color: #ffffff;
     color: black;
 }
 
-.navbar a.active {
+nav a.active {
     background-color: white;
     color: black;
 }
