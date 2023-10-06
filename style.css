@@ -92,6 +92,11 @@ body, html {
     padding: 5px;
   }
 
+  #kaartafbeelding {
+    border-radius: 30px;
+    margin: 70px;
+    display: flex; }
+
   img.round-corners {
     border-radius: 30px;
 
@@ -172,4 +177,13 @@ p {
 
 footer {
   background-color: #ff0000;
+}
+
+article img {
+  margin: 70px;
+}
+
+article p {
+  margin-left: 50px;
+  margin-right: 50px;
 }
