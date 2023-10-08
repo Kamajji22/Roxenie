@@ -1,0 +1,6 @@
+Oogbal soep: https://www.berlin.de/en/museums/6503546-3104050-disgusting-food-museum.en.html
+hero image: https://pixabay.com/photos/beach-cliff-bay-sea-ocean-418742/
+
+Alle andere afbeeldingen zijn zelf gemaakt of met Adobe's Firefly AI gemaakt
+
+css custom scrollbar: https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp
